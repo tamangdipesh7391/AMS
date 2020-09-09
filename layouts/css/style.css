@@ -1,0 +1,14 @@
+.logo h3{
+	font-size: 32px;
+}
+.logo span{
+	color: blue;
+}
+@media(min-width: 768px){
+	.desktop-view{
+	
+}
+}
+.fa-bars{
+	color: #fff;
+}
